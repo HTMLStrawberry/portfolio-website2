@@ -298,3 +298,5 @@ a:active {
 .bg-lighter {
   background-color: lighten($primary-color, 20%);
 }
+
+stylelint.config.js
